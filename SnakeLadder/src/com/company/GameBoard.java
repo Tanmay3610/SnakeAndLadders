@@ -1,22 +1,8 @@
 package com.company;
 
-class Snake{
-    int initialPosition;
-    int finalPosition;
-    public Snake(int initialPosition, int finalPosition){
-        this.initialPosition = initialPosition;
-        this.finalPosition = finalPosition;
-    }
-}
 
-class Ladder{
-    int initialPosition;
-    int finalPosition;
-    public Ladder(int initialPosition, int finalPosition){
-        this.initialPosition = initialPosition;
-        this.finalPosition = finalPosition;
-    }
-}
+
+
 
 class GameMetaData{
     static boolean isGameOn;
