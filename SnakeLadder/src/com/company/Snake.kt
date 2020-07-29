@@ -1,3 +1,6 @@
 package com.company
 
-class Snake(var initialPosition: Int, var finalPosition: Int)
+class Snake(
+        var initialPosition: Int,
+        var finalPosition: Int
+)
